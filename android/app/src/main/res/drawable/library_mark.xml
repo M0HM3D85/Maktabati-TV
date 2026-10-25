@@ -1,0 +1,4 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:width="80dp" android:height="80dp" android:viewportWidth="64" android:viewportHeight="64">
+    <!-- Owner's library mark: a media spine, two books and one shelf. -->
+    <path android:fillColor="#FFFFFFFF" android:fillType="evenOdd" android:pathData="M8,10 Q8,7 11,7 L25,7 Q28,7 28,10 L28,49 L8,49 Z M14,22 L14,36 L23,29 Z M32,13 L40,13 L40,49 L32,49 Z M43,14 L50,12 L59,46 L52,48 Z M5,53 L59,53 L59,58 L5,58 Z"/>
+</vector>
